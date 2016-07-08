@@ -1,0 +1,20 @@
+body {
+	background-color: #A05510;
+}
+
+.roundborder{
+	background-color: white;
+	padding: 20px; 
+	margin-top: 50px;
+	border: 5px solid rgb(119,54,43);
+	background-clip: padding-box;
+	border-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+	-moz-border-radius: 20px; /* FF1+ */
+	-webkit-border-radius: 20px; /* Saf3-4, iOS 1+, Android 1.5+ */
+}
+
+.roundborder p { 
+	color: black;
+	text-indent: 0px; 
+	font-size: 18px;
+} 
